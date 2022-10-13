@@ -1,0 +1,23 @@
+Company: Entertainment LLC
+Theatre: Capitol Theatre
+Total Area: 80M^2
+Start Time: 2000
+Finish Time: 2300
+
+Base Seat Price: 220
+
+Seat Map: 
+
+e,e,e,_,c,c,a,a,a,a,c,c,_,e,e,e
+d,d,d,_,b,b,a,a,a,a,b,b,_,d,d,d
+c,c,c,_,a,a,a,a,a,a,a,a,_,c,c,c
+c,c,c,_,a,a,a,a,a,a,a,a,_,c,c,c
+c,c,c,_,b,b,b,b,b,b,b,b,_,c,c,c
+c,c,c,_,b,b,b,b,b,b,b,b,_,c,c,c
+d,d,d,_,c,c,c,c,c,c,c,c,_,d,d,d
+_,_,_,_,_,_,_,_,_,_,_,_,_,_,_,_
+b,b,_,b,b,b,b,b,b,b,b,_,b,b
+d,d,_,c,c,c,c,c,c,c,c,_,d,d
+d,d,_,d,d,d,d,d,d,d,d,_,d,d
+***zzz***
+
